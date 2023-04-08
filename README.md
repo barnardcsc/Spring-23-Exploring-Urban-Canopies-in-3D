@@ -1,4 +1,4 @@
-# Exploring Urban Canopies in 3D
+# Exploring Urban Canopies in 3D, Spring 2023
 
 Using pandas and deck.gl, this workshop explores visualizing street trees in three dimensions. Participants will learn how to import data, make sense of and analyze complexity, and visualize their findings. No prior coding experience needed, open to beginners!
 
